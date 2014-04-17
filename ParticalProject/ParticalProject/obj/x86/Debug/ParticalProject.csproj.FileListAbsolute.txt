@@ -1,0 +1,10 @@
+C:\Users\josh\Desktop\ParticalProject\ParticalProject\ParticalProject\bin\x86\Debug\ParticalProject.exe
+C:\Users\josh\Desktop\ParticalProject\ParticalProject\ParticalProject\bin\x86\Debug\ParticalProject.pdb
+C:\Users\josh\Desktop\ParticalProject\ParticalProject\ParticalProject\obj\x86\Debug\ParticalProject.csprojResolveAssemblyReference.cache
+C:\Users\josh\Desktop\ParticalProject\ParticalProject\ParticalProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\josh\Desktop\ParticalProject\ParticalProject\ParticalProject\obj\x86\Debug\ParticalProject.exe
+C:\Users\josh\Desktop\ParticalProject\ParticalProject\ParticalProject\obj\x86\Debug\ParticalProject.pdb
+C:\Users\josh\Desktop\ParticalProject\ParticalProject\ParticalProject\bin\x86\Debug\Content\Assets\partical.xnb
+C:\Users\josh\Desktop\ParticalProject\ParticalProject\ParticalProject\bin\x86\Debug\Content\Assets\BG1.xnb
+C:\Users\josh\Desktop\ParticalProject\ParticalProject\ParticalProject\bin\x86\Debug\Content\Assets\BG2.xnb
+C:\Users\josh\Desktop\ParticalProject\ParticalProject\ParticalProject\bin\x86\Debug\Content\Assets\BG3.xnb
